@@ -4,7 +4,7 @@
 
 > android下载链接：https://www.pgyer.com/ydzs1
 
-> ios版本的ipa文件稍后给出来，稍等 :happy:
+> ios版本也有了，链接同android。但是目前只有100个安装名额，大家从速~
 
 ### 基础功能
 
