@@ -1,16 +1,29 @@
-# lol_chess
+## lol云顶助手
 
-A new Flutter project.
+> 基于flutter的云顶之弈助手，没有网也可以用。
 
-## Getting Started
+### 基础功能
 
-This project is a starting point for a Flutter application.
+- 英雄种族，职业分类查看，阵容搭配更方便。
 
-A few resources to get you started if this is your first Flutter project:
+- 装备合成路线图，随时查看，方便记忆，再也不用担心合错装备啦
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- 其他攻略：血量计算，卡池概率，选秀攻略，站位技巧，运营思路.......
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+### 应用截图
+
+![](/Users/purelightme/Desktop/flutter/lol_chess/screen_imgs/1.jpg)
+
+![](/Users/purelightme/Desktop/flutter/lol_chess/screen_imgs/index_0.jpg)
+
+![](/Users/purelightme/Desktop/flutter/lol_chess/screen_imgs/index.jpg)
+
+![](/Users/purelightme/Desktop/flutter/lol_chess/screen_imgs/detail.jpg)
+
+![](/Users/purelightme/Desktop/flutter/lol_chess/screen_imgs/network.jpg)
+
+![](/Users/purelightme/Desktop/flutter/lol_chess/screen_imgs/other.jpg)
+
+![](/Users/purelightme/Desktop/flutter/lol_chess/screen_imgs/equipment.jpg)
+
+![](/Users/purelightme/Desktop/flutter/lol_chess/screen_imgs/aboutjpg.jpg)
