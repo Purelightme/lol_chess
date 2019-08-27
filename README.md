@@ -12,18 +12,18 @@
 
 ### 应用截图
 
-![](/Users/purelightme/Desktop/flutter/lol_chess/screen_imgs/1.jpg)
+![](screen_imgs/1.jpg)
 
-![](/Users/purelightme/Desktop/flutter/lol_chess/screen_imgs/index_0.jpg)
+![](screen_imgs/index_0.jpg)
 
-![](/Users/purelightme/Desktop/flutter/lol_chess/screen_imgs/index.jpg)
+![](screen_imgs/index.jpg)
 
-![](/Users/purelightme/Desktop/flutter/lol_chess/screen_imgs/detail.jpg)
+![](screen_imgs/detail.jpg)
 
-![](/Users/purelightme/Desktop/flutter/lol_chess/screen_imgs/network.jpg)
+![](screen_imgs/network.jpg)
 
-![](/Users/purelightme/Desktop/flutter/lol_chess/screen_imgs/other.jpg)
+![](screen_imgs/other.jpg)
 
-![](/Users/purelightme/Desktop/flutter/lol_chess/screen_imgs/equipment.jpg)
+![](screen_imgs/equipment.jpg)
 
-![](/Users/purelightme/Desktop/flutter/lol_chess/screen_imgs/aboutjpg.jpg)
+![](screen_imgs/aboutjpg.jpg)
