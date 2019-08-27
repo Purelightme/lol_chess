@@ -2,7 +2,9 @@
 
 > 基于flutter的云顶之弈助手，没有网也可以用。
 
-> ios版本的ipa文件稍后给出来，稍等~ :happy:
+> android下载链接：https://www.pgyer.com/ydzs1
+
+> ios版本的ipa文件稍后给出来，稍等 :happy:
 
 ### 基础功能
 
