@@ -16,7 +16,9 @@
 
 ### 应用截图
 
-![](screen_imgs/1.jpg)
+![](screen_imgs/new_index.jpg)
+
+![](screen_imgs/buff.jpg)
 
 ![](screen_imgs/index_0.jpg)
 
