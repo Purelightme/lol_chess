@@ -76,7 +76,8 @@ class _MyAppState extends State<MyApp> {
             ],
           ),
           body: _pages[_currentIndex],
-        )
+        ),
+      debugShowCheckedModeBanner: false,
     );
   }
 }
