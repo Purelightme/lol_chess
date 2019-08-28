@@ -6,6 +6,12 @@
 
 > ios版本也有了，链接同android。但是目前只有100个安装名额，大家从速~
 
+> ios需要添加uuid才能安装，链接：https://www.pgyer.com/tools/udid?sl=M6wV，等待我同意(一般很快)就可以装了
+
+> 或者使用苹果内置相机扫描：
+
+> ![](screen_imgs/generateQR.png)
+
 ### 基础功能
 
 - 英雄种族，职业分类查看，阵容搭配更方便。
