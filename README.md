@@ -6,7 +6,7 @@
 
 > ios版本也有了，链接同android。但是目前只有100个安装名额，大家从速~
 
-> ios需要添加uuid才能安装，点击链接，按提示操作即可：https://www.pgyer.com/tools/udid?sl=M6wV
+> ios需要添加UDID才能安装，点击链接，按提示操作即可：https://www.pgyer.com/tools/udid?sl=M6wV
 
 > 或者使用苹果内置相机扫描：
 
