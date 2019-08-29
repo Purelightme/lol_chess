@@ -279,9 +279,9 @@ class _BuffListState extends State<BuffList> with AutomaticKeepAliveClientMixin 
             img: hero['img'],
             jbs: jbs.join('/'),
             color: hero['price'] == '1' ? Colors.grey :
-            hero['price'] == '1' ? Colors.green :
-            hero['price'] == '1' ? Colors.blue :
-            hero['price'] == '1' ? Colors.purple : Colors.orange
+            hero['price'] == '2' ? Colors.green :
+            hero['price'] == '3' ? Colors.blue :
+            hero['price'] == '4' ? Colors.purple : Colors.orange
           ),
         )));
       },
