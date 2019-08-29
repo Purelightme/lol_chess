@@ -196,8 +196,10 @@ class _BuffListState extends State<BuffList> with AutomaticKeepAliveClientMixin 
               SizedBox(
                 height: 20,
               ),
-              Row(
-                children: <Widget>[...item['heroes'].map((hero) => _buildHeroItem(hero, context)).toList()]
+              Wrap(
+                spacing: 2,
+                runSpacing: 2,
+                children: <Widget>[...item['heroes'].map((hero) => _buildHeroItem(hero, context)).toList(),]
               ),
             ],
           ),
